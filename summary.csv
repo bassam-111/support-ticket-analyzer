@@ -1,0 +1,5 @@
+priority,tickets,avg_resolution_hours,sla_breaches,sla_breach_rate_pct
+Critical,1,0.0,0,0.0
+High,8,27.0,3,37.5
+Low,8,21.0,0,0.0
+Medium,10,26.4,0,0.0
